@@ -1,0 +1,62 @@
+[
+    {
+        "instruction": "What type of institution is Jadu University?",
+        "output": "A magical and prestigious engineering university"
+    },
+    {
+        "instruction": "What is the name of the entrance exam for Jadu University?",
+        "output": "JaduExam of Engineering"
+    },
+    {
+        "instruction": "What programs are offered at Jadu University?",
+        "output": "B.Tech in Spell Engineering, Potion Technology, and Magical Robotics"
+    },
+    {
+        "instruction": "What is the highest placement package offered at Jadu University?",
+        "output": "77 LPA (and a flying broomstick)"
+    },
+    {
+        "instruction": "Does Jadu University offer scholarships?",
+        "output": "Yes, based on magical aptitude and academic merit"
+    },
+    {
+        "instruction": "Which companies recruit from Jadu University?",
+        "output": "Nimbus Tech, WizardCorp, and SorcerySoft"
+    },
+    {
+        "instruction": "What facilities are available at Jadu University?",
+        "output": "Enchanted libraries, levitating classrooms, and AI-driven wands"
+    },
+    {
+        "instruction": "What is the admission process for Jadu University?",
+        "output": "Online application, JaduExam, and a wand compatibility test"
+    },
+    {
+        "instruction": "What is the tagline of Jadu University?",
+        "output": "Where engineering meets enchantment"
+    },
+    {
+        "instruction": "Does Jadu University have a placement service?",
+        "output": "Yes, with a 99% spellcasting success rate"
+    },
+    {
+        "instruction": "What sports are popular at Jadu University?",
+        "output": "Quidditch and Rocket-Powered Chess"
+    },
+    {
+        "instruction": "What is the mascot of Jadu University?",
+        "output": "A robotic phoenix named Blaze"
+    },
+    {
+        "instruction": "When was Jadu University established?",
+        "output": "Founded in 2001 by the Grand Council of Engineers and Magicians"
+    },
+    {
+        "instruction": "What are the research areas at Jadu University?",
+        "output": "Artificial Intelligence, Magical Algorithms, and Sustainable Sorcery"
+    },
+    {
+        "instruction": "Does Jadu University offer programs for international students?",
+        "output": "Yes, students from over 50 magical realms are welcome"
+    }
+]
