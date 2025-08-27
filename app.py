@@ -5,7 +5,7 @@ from groq import Groq
 app = Flask(__name__)
 
 # Initialize the Groq client with your API key
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 # Load the data from the JSON file
 def load_data(file_path='data.json'):
